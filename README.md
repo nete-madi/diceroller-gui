@@ -1,4 +1,4 @@
-# diceroller_gui
+# diceroller-gui
 Your favorite dice rolling simulator, now in a GUI format.
 
 Supports all 7 standard RPG dice: d4, d6, d8, d10, d12, d20, d100.
